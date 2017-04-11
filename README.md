@@ -1,2 +1,0 @@
-# paradisedj
-android
